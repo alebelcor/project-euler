@@ -6,4 +6,4 @@ Just solving <a href="http://projecteuler.net/">Project Euler</a> problems using
 Author
 -------
 
-[[http://projecteuler.net/profile/alebelcor.png]]
+![Project Euler profile image](http://projecteuler.net/profile/alebelcor.png)
