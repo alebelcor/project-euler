@@ -2,7 +2,7 @@
  * The following problem is taken from Project Euler
  * http://projecteuler.net/problem=10
  *
- * A. 
+ * A. 142913828922
  */
 
 var isPrime = function (num) {
